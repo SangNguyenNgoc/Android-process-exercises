@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MutilNotes</string>
+    <string name="channel_name">Thông báo ghi chú</string>
+    <string name="channel_description">Ghi chú của bạn</string>
+</resources>
